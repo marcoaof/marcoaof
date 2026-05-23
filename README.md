@@ -1,6 +1,6 @@
 # Marco Antônio | Desenvolvedor
 
-Olá! Sou *Marco Antônio*, tenho 17 anos e atualmente cursando **Análise e Desenvolvimento de Sistemas**. Meu interesse por essa área se intensificou nos últimos anos, me impulsionando a buscar conhecimento e a desenvolver habilidades que me permitam criar soluções inovadoras.
+Olá! Sou *Marco Antônio*, tenho 17 anos e atualmente cursando **Análise e Desenvolvimento de Sistemas**. Sempre tive interesse nessa área, e é a qual eu me sinto mais confiante em seguir, buscando conhecimentos e a desenvolver habilidades que me permitam criar soluções que são inovadoras.
 
 ## Habilidades e Conhecimentos
 Minha base de estudos e projetos está centrada nas seguintes tecnologias:
