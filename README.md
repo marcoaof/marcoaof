@@ -8,6 +8,7 @@ Minha base de estudos e projetos está centrada nas seguintes linguagens:
 -   ☕ **Java**: Experiência em conceitos de *programação orientada a objetos* e desenvolvimento de aplicações back-end.
 -   🗄️ **SQL Server**: Conhecimento em modelagem de dados, consultas e *gerenciamento de bancos de dados relacionais.*
 -   🟨 **JavaScript**: Habilidade no *desenvolvimento front-end*, criando interfaces dinâmicas e responsivas.
+-   ⚛️ React: Interesse e estudo em bibliotecas JavaScript para construção de interfaces de usuário modernas e eficientes.
 
 ## Experiência e Projetos
 Atualmente, atuo como suporte técnico em um ERP financeiro, onde desenvolvo minhas habilidades em análise de código Java e na elaboração de consultas SQL Server para identificar e solucionar problemas. Essa experiência me proporciona uma visão prática do ciclo de vida do software e da importância da análise de dados para a tomada de decisões, além de me permitir propor melhorias e ajustes em sistemas.
