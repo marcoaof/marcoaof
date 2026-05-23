@@ -3,7 +3,7 @@
 Olá! Sou *Marco Antônio*, tenho 17 anos e atualmente cursando **Análise e Desenvolvimento de Sistemas**. Sempre tive interesse nessa área, e é a qual eu me sinto mais confiante em seguir, buscando conhecimentos e a desenvolver habilidades que me permitam criar soluções que são inovadoras.
 
 ## Habilidades e Conhecimentos
-Minha base de estudos e projetos está centrada nas seguintes tecnologias:
+Minha base de estudos e projetos está centrada nas seguintes linguagens:
 
 -   ☕ **Java**: Experiência em conceitos de *programação orientada a objetos* e desenvolvimento de aplicações back-end.
 -   🗄️ **SQL Server**: Conhecimento em modelagem de dados, consultas e *gerenciamento de bancos de dados relacionais.*
@@ -12,7 +12,7 @@ Minha base de estudos e projetos está centrada nas seguintes tecnologias:
 ## Experiência e Projetos
 Atualmente, atuo como suporte técnico em um ERP financeiro, onde desenvolvo minhas habilidades em análise de código Java e na elaboração de consultas SQL Server para identificar e solucionar problemas. Essa experiência me proporciona uma visão prática do ciclo de vida do software e da importância da análise de dados para a tomada de decisões, além de me permitir propor melhorias e ajustes em sistemas.
 
-Estou aberto a discussões sobre tecnologia, colaborações em projetos e oportunidades de desenvolvimento profissional.
+Estou aberto a discussões sobre tecnologia, colaborações em projetos e oportunidades para desenvolvimento profissional.
 
 **Meus contatos:**
 
