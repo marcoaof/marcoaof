@@ -15,5 +15,7 @@ Atualmente, atuo como suporte técnico em um ERP financeiro, onde desenvolvo min
 Estou aberto a discussões sobre tecnologia, colaborações em projetos e oportunidades para desenvolvimento profissional.
 
 **Meus contatos:**
+
 LinkedIn: [Marco Antônio](https://www.linkedin.com/in/marco-ant%C3%B4nio-161905353/?skipRedirect=true)
+
 E-mail: [marcoantonio.f74@gmail.com](mailto:marcoantonio.f74@gmail.com)
