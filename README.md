@@ -16,6 +16,6 @@ Estou aberto a discussões sobre tecnologia, colaborações em projetos e oportu
 
 **Meus contatos:**
 
-[LinkedIn](https://www.linkedin.com/in/marco-ant%C3%B4nio-161905353/?skipRedirect=true) - *Marco Antônio*
+LinkedIn: [Marco Antônio](https://www.linkedin.com/in/marco-ant%C3%B4nio-161905353/?skipRedirect=true)
 
-[E-mail](mailto:marcoantonio.f74@gmail.com) - *marcoantonio.fr74@gmail.com*
+E-mail: [marcoantonio.f74@gmail.com](mailto:marcoantonio.f74@gmail.com)
